@@ -8,6 +8,8 @@
 }
 .error {
     background-color: red;
+    border-radius: 5px;
+    text-align: center;
 }
 .btncolor {
     background-color: gray;
